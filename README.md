@@ -1,2 +1,5 @@
-# rxjs-playground
-A playground project for RxJS 6 in Typescript build using webpack 4
+# RxJS Playground
+
+A playground project for RxJS 6 in Typescript build using Webpack 4
+
+Some example RxJS unit tests in rxjs-marbles.
